@@ -1,0 +1,24 @@
+5 0.31 * sin 0.31 2 ^ * exp 0.31 2 ^ / sin 0.31 2 ^ 5 * 0.31 sin + exp cos / ln 0.31 2 ^ *
+5 x * sin x 2 ^ * exp x 2 ^ / sin x 2 ^ 5 * x sin + exp cos / ln x 2 ^ *
+
+x^2*ln((sin((exp(x^2*sin(5*x)))/(x^2)))/(cos(exp(5*x^2+sin(x)))))
+
+.31^2*ln((sin((exp(-0.31^2*sin(5*.31)))/(0.31^2)))/(cos(exp(5*0.31^2+sin(0.31)))))
+
+x 2 ^ x 2 ^ 5 x * sin * exp x 2 ^ / sin 5 x 2 ^ * x sin + exp cos / ln *
+x 2 ^ x 2 ^ 5 x * sin * exp x 2 ^ / sin 5 x 2 ^ * x sin + exp cos / ln *
+x 2 ^ x 2 ^ 5 x * sin * exp x 2 ^ / sin 5 x 2 ^ * x sin + exp cos / ln *
+x 2 ^ x 2 ^ 5 x * sin * exp x 2 ^ / sin 5 x 2 ^ * x sin + exp cos / ln *
+x 2 ^ x 2 ^ 5 x * sin * exp x 2 ^ / sin 5 x 2 ^ * x sin + exp cos / ln *
+x 2 ^ x 2 ^ 5 x * sin * exp x 2 ^ / sin 5 x 2 ^ * x sin + exp cos / ln *
+x 2 ^ x 2 ^ 5 x * sin * exp x 2 ^ / sin 5 x 2 ^ * x sin + exp cos / ln *
+x 2 ^ x 2 ^ 5 x * sin * exp x 2 ^ / sin 5 x 2 ^ * x sin + exp cos / ln *
+x 2 ^ x 2 ^ 5 x * sin * exp x 2 ^ / sin 5 x 2 ^ * x sin + exp cos / ln *
+x 2 ^ x 2 ^ 5 x * sin * exp x 2 ^ / sin 5 x 2 ^ * x sin + exp cos / ln *
+
+sin(cos(ln(1+2^(x^2-2^x)))*tan(3^2^sin(exp(x))))
+1 2 x 2 ^ 2 x ^ - ^ + ln cos 3 2 ^ x exp sin ^ tan * sin
+
+-(x+2)+x^(2*x)+sin(x)+sqrt(5*x)
+0 x 2 + - x 2 x * ^ + x sin + 5 x * sqrt +
+
